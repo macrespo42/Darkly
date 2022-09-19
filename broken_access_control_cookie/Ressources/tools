@@ -1,3 +1,0 @@
-The value of the cookie is encrypted in md5 so i have used a onlinemd5 crypt/uncrypt to decrypt the original value of the cookie and encrypt my payload
-
-https://md5decrypt.net/
