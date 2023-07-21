@@ -1,4 +1,10 @@
 # Darkly
+
+![GitHub last commit](https://img.shields.io/github/last-commit/macrespo42/darkly)
+![GitHub stars](https://img.shields.io/github/stars/macrespo42/darkly)
+![GitHub forks](https://img.shields.io/github/forks/macrespo42/darkly)
+![License](https://img.shields.io/github/license/macrespo42/darkly)
+
 Introduction to web cybersecurity  
 
 The aim of this project is to discover the world of web cybersecurity by exploiting 14 different breach  
